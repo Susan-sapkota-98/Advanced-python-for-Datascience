@@ -1,0 +1,5 @@
+2025-12-22 13:22:50,248 DEBUG debug message
+2025-12-22 13:22:50,249 INFO Info message
+2025-12-22 13:22:50,249 WARNING warning message
+2025-12-22 13:22:50,249 ERROR error message
+2025-12-22 13:22:50,249 CRITICAL critical message

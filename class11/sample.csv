@@ -1,0 +1,10 @@
+ID,Name,Age,Gender,Salary,JoinDate,Department
+1,susan,20,M,5000,2020-01-25,Sales
+2,Ram,20,M,5000,2020-01-25,Sales
+3,,20,M,5000,2020-01-25,Sales
+4,shyam,20,,5000,2020-01-25,
+5,susans,20,M,5000,2020-01-25,Sales
+6,susanfd,20,M,5000,,Sales
+7,susands,20,M,5000,2020-01-25,Sales
+8,susang,20,M,5000,2020-01-25,Sales
+9,susandfs,20,M,,2020-01-25,Sales
