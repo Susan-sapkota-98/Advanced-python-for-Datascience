@@ -1,0 +1,16 @@
+,0
+PatientID,0
+FirstName,0
+LastName,0
+Gender,0
+DateOfBirth,0
+ContactNumber,0
+Email,0
+Address,0
+AdmissionDate,0
+DischargeDate,3
+Ward,0
+RoomNumber,0
+Disease,0
+LengthOfStay,0
+StayStatus,0
