@@ -1,0 +1,21 @@
+,PatientID,FirstName,LastName,Gender,DateOfBirth,ContactNumber,Email,Address,AdmissionDate,DischargeDate,Ward,RoomNumber,Disease,LengthOfStay,StayStatus
+0,P001,John,Doe,Male,1978-05-12,9845001234.0,john.doe@example.com,Kathmandu,2026-03-01,2026-03-05,A,101.0,Typhoid,4.0,Discharged
+1,P002,Jane,Unknown,Female,Not Available,9845005678.0,jane.smith@example.com,Lalitpur,2026-03-03,2026-03-04,B,202.0,Diarrhea,1.0,Discharged
+2,P003,Robert,Brown,Male,1963-11-18,Not Available,robert.brown@example.com,Unknown,2026-03-02,2026-03-07,C,303.0,Pneumonia,5.0,Discharged
+3,P004,Unknown,Davis,Female,1998-02-14,9845004321.0,Not Available,Kathmandu,2026-03-04,2026-03-04,A,101.0,Food Poisoning,0.0,Admitted / Ongoing
+4,P005,Michael,Johnson,Male,1973-09-09,9845003456.0,michael.johnson@example.com,Lalitpur,2026-03-01,Not Available,D,404.0,Diabetes,0.0,Admitted / Ongoing
+5,P006,Linda,Williams,Unknown,Not Available,9845006543.0,linda.williams@example.com,Bhaktapur,2026-03-05,2026-03-07,B,203.0,Hypertension,2.0,Discharged
+6,P007,James,Miller,Male,1983-06-21,9845007890.0,james.miller@example.com,Kathmandu,2026-03-06,2026-03-10,C,304.0,Under Diagnosis,4.0,Discharged
+7,P008,Sarah,Wilson,Female,1968-04-11,9845002345.0,Not Available,Lalitpur,2026-03-02,2026-03-05,B,405.0,Asthma,3.0,Discharged
+8,P009,David,Moore,Male,Not Available,9845000987.0,david.moore@example.com,Bhaktapur,2026-03-07,2026-03-07,A,103.0,Dengue,0.0,Admitted / Ongoing
+9,P010,Laura,Taylor,Female,1958-10-27,9845001122.0,laura.taylor@example.com,Kathmandu,2026-03-01,2026-03-08,D,404.0,Heart Disease,7.0,Discharged
+10,P011,Anna,Patel,Female,1990-01-15,Not Available,anna.patel@example.com,Lalitpur,2026-03-08,2026-03-10,B,207.0,Anemia,2.0,Discharged
+11,P012,Mark,Lee,Male,1975-12-02,9845009988.0,Not Available,Unknown,2026-03-05,2026-03-08,C,308.0,Malaria,3.0,Discharged
+12,P013,Sophia,Kim,Female,1985-03-22,9845007766.0,sophia.kim@example.com,Kathmandu,2026-03-09,Not Available,A,104.0,Chronic Kidney Disease,0.0,Admitted / Ongoing
+13,P014,Chris,Park,Male,Not Available,Not Available,chris.park@example.com,Lalitpur,2026-03-10,2026-03-12,B,209.0,Gastritis,2.0,Discharged
+14,P015,Ram,Sharma,Male,1980-01-10,9845011111.0,ram.sharma@example.com,Kathmandu,2026-03-02,2026-03-06,A,105.0,Typhoid,4.0,Discharged
+15,P016,Sita,Gurung,Female,Not Available,9845012222.0,Not Available,Pokhara,2026-03-03,2026-03-05,B,210.0,Diarrhea,2.0,Discharged
+16,P017,Hari,Thapa,Male,1972-08-20,Not Available,hari.thapa@example.com,Chitwan,2026-03-01,2026-03-07,C,305.0,Pneumonia,6.0,Discharged
+17,P018,Gita,Karki,Female,1995-12-12,9845013333.0,gita.karki@example.com,Unknown,2026-03-06,Not Available,D,406.0,Diabetes,0.0,Admitted / Ongoing
+18,P019,Bikash,Rai,Male,Not Available,9845014444.0,Not Available,Biratnagar,2026-03-04,2026-03-08,A,106.0,Dengue,4.0,Discharged
+19,P020,Anita,Lama,Female,1988-03-18,9845015555.0,anita.lama@example.com,Kathmandu,2026-03-05,2026-03-09,B,211.0,Asthma,4.0,Discharged

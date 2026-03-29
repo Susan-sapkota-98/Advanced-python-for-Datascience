@@ -10,9 +10,9 @@ P008,Sarah,Wilson,F,1968-04-11,9845002345,,Lalitpur,2026-03-02,2026-03-05,,405,A
 P009,David,Moore,M,,9845000987,david.moore@example.com,Bhaktapur,2026-03-07,2026-03-07,A,103,Dengue
 P010,Laura,Taylor,F,1958-10-27,9845001122,laura.taylor@example.com,Kathmandu,2026-03-01,2026-03-08,D,,Heart Disease
 P011,Anna,Patel,F,1990-01-15,,anna.patel@example.com,Lalitpur,2026-03-08,2026-03-10,B,207,Anemia
-P012,Mark,Lee,M,1975-12-02,9845009988,, ,2026-03-05,2026-03-08,C,308,Malaria
+P012,Mark,Lee,M,1975-12-02,9845009988,,,2026-03-05,2026-03-08,C,308,Malaria
 P013,Sophia,Kim,F,1985-03-22,9845007766,sophia.kim@example.com,Kathmandu,2026-03-09,,A,104,Chronic Kidney Disease
-P014,Chris,Park,M,, ,chris.park@example.com,Lalitpur,2026-03-10,2026-03-12,B,209,Gastritis
+P014,Chris,Park,M,,,chris.park@example.com,Lalitpur,2026-03-10,2026-03-12,B,209,Gastritis
 P015,Ram,Sharma,M,1980-01-10,9845011111,ram.sharma@example.com,Kathmandu,2026-03-02,2026-03-06,A,105,Typhoid
 P016,Sita,Gurung,F,,9845012222,,Pokhara,2026-03-03,2026-03-05,B,210,Diarrhea
 P017,Hari,Thapa,M,1972-08-20,,hari.thapa@example.com,Chitwan,2026-03-01,2026-03-07,C,305,Pneumonia

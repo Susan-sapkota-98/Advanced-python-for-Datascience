@@ -1,24 +1,100 @@
-2026-03-27 17:22:10,045 - INFO - ETL process started
-2026-03-27 17:22:10,052 - INFO - Extracted 20 records from hospital_patient_dataset.csv
-2026-03-27 17:22:10,067 - INFO - Transformation completed successfully
-2026-03-27 17:22:10,089 - INFO - Data loaded into hospital.db (table: patients)
-2026-03-27 17:22:26,259 - INFO - ETL process started
-2026-03-27 17:22:26,265 - INFO - Extracted 20 records from hospital_patient_dataset.csv
-2026-03-27 17:22:26,281 - INFO - Transformation completed successfully
-2026-03-27 17:22:26,302 - INFO - Data loaded into hospital.db (table: patients)
-2026-03-27 17:23:52,216 - INFO - ETL process started
-2026-03-27 17:23:52,220 - INFO - Extracted 20 records from hospital_patient_dataset.csv
-2026-03-27 17:23:52,234 - INFO - Transformation completed successfully
-2026-03-27 17:23:52,256 - INFO - Data loaded into hospital.db (table: patients)
-2026-03-27 17:24:02,281 - INFO - ETL process started
-2026-03-27 17:24:02,285 - INFO - Extracted 20 records from hospital_patient_dataset.csv
-2026-03-27 17:24:02,303 - INFO - Transformation completed successfully
-2026-03-27 17:24:02,326 - INFO - Data loaded into hospital.db (table: patients)
-2026-03-27 17:25:04,441 - INFO - ETL process started
-2026-03-27 17:25:04,447 - INFO - Extracted 20 records from hospital_patient_dataset.csv
-2026-03-27 17:25:04,462 - INFO - Transformation completed successfully
-2026-03-27 17:25:04,490 - INFO - Data loaded into hospital.db (table: patients)
-2026-03-27 17:25:22,825 - INFO - ETL process started
-2026-03-27 17:25:22,831 - INFO - Extracted 20 records from hospital_patient_dataset.csv
-2026-03-27 17:25:22,850 - INFO - Transformation completed successfully
-2026-03-27 17:25:22,872 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:09,094 - INFO - Scheduled ETL job triggered
+2026-03-29 22:58:09,095 - INFO - ETL process started
+2026-03-29 22:58:09,100 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:09,129 - INFO - Transformation completed successfully
+2026-03-29 22:58:09,151 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:09,152 - INFO - Scheduled ETL job completed
+2026-03-29 22:58:09,152 - INFO - Scheduled ETL job triggered
+2026-03-29 22:58:09,152 - INFO - ETL process started
+2026-03-29 22:58:09,156 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:09,185 - INFO - Transformation completed successfully
+2026-03-29 22:58:09,207 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:09,208 - INFO - Scheduled ETL job completed
+2026-03-29 22:58:09,208 - INFO - Scheduled ETL job triggered
+2026-03-29 22:58:09,208 - INFO - ETL process started
+2026-03-29 22:58:09,213 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:09,248 - INFO - Transformation completed successfully
+2026-03-29 22:58:09,269 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:09,269 - INFO - Scheduled ETL job completed
+2026-03-29 22:58:09,269 - INFO - Scheduled ETL job triggered
+2026-03-29 22:58:09,269 - INFO - ETL process started
+2026-03-29 22:58:09,272 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:09,296 - INFO - Transformation completed successfully
+2026-03-29 22:58:09,319 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:09,319 - INFO - Scheduled ETL job completed
+2026-03-29 22:58:09,319 - INFO - Scheduled ETL job triggered
+2026-03-29 22:58:09,320 - INFO - ETL process started
+2026-03-29 22:58:09,322 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:09,346 - INFO - Transformation completed successfully
+2026-03-29 22:58:09,366 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:09,367 - INFO - Scheduled ETL job completed
+2026-03-29 22:58:09,367 - INFO - Scheduled ETL job triggered
+2026-03-29 22:58:09,367 - INFO - ETL process started
+2026-03-29 22:58:09,370 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:09,396 - INFO - Transformation completed successfully
+2026-03-29 22:58:09,416 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:09,416 - INFO - Scheduled ETL job completed
+2026-03-29 22:58:09,416 - INFO - Scheduled ETL job triggered
+2026-03-29 22:58:09,416 - INFO - ETL process started
+2026-03-29 22:58:09,419 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:09,440 - INFO - Transformation completed successfully
+2026-03-29 22:58:09,574 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:09,574 - INFO - Scheduled ETL job completed
+2026-03-29 22:58:09,575 - INFO - Scheduled ETL job triggered
+2026-03-29 22:58:09,575 - INFO - ETL process started
+2026-03-29 22:58:09,577 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:09,597 - INFO - Transformation completed successfully
+2026-03-29 22:58:09,612 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:09,613 - INFO - Scheduled ETL job completed
+2026-03-29 22:58:09,613 - INFO - ETL process started
+2026-03-29 22:58:09,615 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:09,636 - INFO - Transformation completed successfully
+2026-03-29 22:58:09,651 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:09,652 - INFO - ETL process started
+2026-03-29 22:58:09,654 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:09,678 - INFO - Transformation completed successfully
+2026-03-29 22:58:09,734 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:09,734 - INFO - ETL process started
+2026-03-29 22:58:09,737 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:09,756 - INFO - Transformation completed successfully
+2026-03-29 22:58:09,773 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:09,773 - INFO - ETL process started
+2026-03-29 22:58:09,776 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:09,797 - INFO - Transformation completed successfully
+2026-03-29 22:58:09,814 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:09,814 - INFO - ETL process started
+2026-03-29 22:58:09,817 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:09,836 - INFO - Transformation completed successfully
+2026-03-29 22:58:09,855 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:09,856 - INFO - ETL process started
+2026-03-29 22:58:09,859 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:09,878 - INFO - Transformation completed successfully
+2026-03-29 22:58:09,894 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:09,894 - INFO - ETL process started
+2026-03-29 22:58:09,897 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:09,918 - INFO - Transformation completed successfully
+2026-03-29 22:58:09,933 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:19,943 - INFO - Scheduled ETL job triggered
+2026-03-29 22:58:19,943 - INFO - ETL process started
+2026-03-29 22:58:19,947 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:19,967 - INFO - Transformation completed successfully
+2026-03-29 22:58:19,985 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:19,986 - INFO - Scheduled ETL job completed
+2026-03-29 22:58:19,986 - INFO - Scheduled ETL job triggered
+2026-03-29 22:58:19,986 - INFO - ETL process started
+2026-03-29 22:58:19,988 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:20,008 - INFO - Transformation completed successfully
+2026-03-29 22:58:20,025 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:20,025 - INFO - Scheduled ETL job completed
+2026-03-29 22:58:30,035 - INFO - Scheduled ETL job triggered
+2026-03-29 22:58:30,036 - INFO - ETL process started
+2026-03-29 22:58:30,039 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:30,059 - INFO - Transformation completed successfully
+2026-03-29 22:58:30,115 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:30,115 - INFO - Scheduled ETL job completed
+2026-03-29 22:58:30,115 - INFO - Scheduled ETL job triggered
+2026-03-29 22:58:30,115 - INFO - ETL process started
+2026-03-29 22:58:30,118 - INFO - Extracted 20 records from hospital_patient_dataset.csv
+2026-03-29 22:58:30,143 - INFO - Transformation completed successfully
+2026-03-29 22:58:30,159 - INFO - Data loaded into hospital.db (table: patients)
+2026-03-29 22:58:30,160 - INFO - Scheduled ETL job completed
