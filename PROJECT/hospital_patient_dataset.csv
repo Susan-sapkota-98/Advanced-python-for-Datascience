@@ -4,7 +4,7 @@ P002,Jane,,F,,9845005678,jane.smith@example.com,Lalitpur,2026-03-03,2026-03-04,B
 P003,Robert,Brown,M,1963-11-18,,robert.brown@example.com,,2026-03-02,2026-03-07,C,303,Pneumonia
 P004,,Davis,F,1998-02-14,9845004321,,Kathmandu,2026-03-04,2026-03-04,A,,Food Poisoning
 P005,Michael,Johnson,M,1973-09-09,9845003456,michael.johnson@example.com,Lalitpur,2026-03-01,,D,404,Diabetes
-P006,Linda,Williams,, ,9845006543,linda.williams@example.com,Bhaktapur,2026-03-05,2026-03-07,B,203,Hypertension
+P006,Linda,Williams,,,9845006543,linda.williams@example.com,Bhaktapur,2026-03-05,2026-03-07,B,203,Hypertension
 P007,James,Miller,M,1983-06-21,9845007890,james.miller@example.com,Kathmandu,2026-03-06,2026-03-10,C,304,
 P008,Sarah,Wilson,F,1968-04-11,9845002345,,Lalitpur,2026-03-02,2026-03-05,,405,Asthma
 P009,David,Moore,M,,9845000987,david.moore@example.com,Bhaktapur,2026-03-07,2026-03-07,A,103,Dengue
@@ -19,3 +19,23 @@ P017,Hari,Thapa,M,1972-08-20,,hari.thapa@example.com,Chitwan,2026-03-01,2026-03-
 P018,Gita,Karki,F,1995-12-12,9845013333,gita.karki@example.com,,2026-03-06,,D,406,Diabetes
 P019,Bikash,Rai,M,,9845014444,,Biratnagar,2026-03-04,2026-03-08,A,106,Dengue
 P020,Anita,Lama,F,1988-03-18,9845015555,anita.lama@example.com,Kathmandu,2026-03-05,2026-03-09,B,211,Asthma
+P021,Rajan,Rai,M,1970-04-05,,rajan.rai@example.com,Hetauda,2026-03-02,2026-03-05,A,101,Pneumonia
+P022,Sandip,Khadka,M,1956-09-07,9848038374,sandip.khadka@example.com,,2026-03-08,2026-03-10,A,102,Fever
+P023,Rojina,Magar,F,1976-02-03,9847374122,rojina.magar@example.com,Lalitpur,2026-03-06,2026-03-08,C,,Jaundice
+P024,Nirajan,Shrestha,M,1990-05-27,9847067228,,Janakpur,2026-03-04,2026-03-04,A,106,Hypertension
+P025,Roshan,Poudel,,1979-05-15,9847120868,roshan.poudel@example.com,Bhaktapur,2026-03-06,2026-03-08,B,206,Heart Disease
+P026,Rajesh,Limbu,M,1965-08-13,9845528972,rajesh.limbu@example.com,,2026-03-04,2026-03-06,A,102,Diarrhea
+P027,Sangita,Shrestha,F,,9846279418,sangita.shrestha@example.com,Pokhara,2026-03-11,2026-03-14,D,406,Jaundice
+P028,Rojina,Limbu,F,2002-09-18,9845408072,rojina.limbu@example.com,Janakpur,2026-03-07,2026-03-10,C,,Asthma
+P029,Sarita,Bhattarai,F,1962-03-21,9843684052,sarita.bhattarai@example.com,Butwal,2026-03-10,2026-03-10,,404,Under Diagnosis
+P030,Laxmi,,F,1998-12-04,9845476583,laxmi.adhikari@example.com,Biratnagar,2026-03-02,2026-03-04,D,402,Jaundice
+P031,Jyoti,Tamang,F,1987-02-28,9846007072,jyoti.tamang@example.com,Hetauda,2026-03-10,2026-03-11,B,,Dengue
+P032,Ashish,Gurung,,1986-01-04,9847089806,ashish.gurung@example.com,Chitwan,2026-03-04,2026-03-04,B,205,Pneumonia
+P033,Sarita,Bhandari,F,1963-03-22,,sarita.bhandari@example.com,Hetauda,2026-03-03,2026-03-05,D,402,Migraine
+P034,Kopila,Karki,F,1983-09-15,9843030113,kopila.karki@example.com,Pokhara,2026-03-04,2026-03-04,C,,Arthritis
+P035,Kiran,Limbu,M,1955-02-23,,kiran.limbu@example.com,Pokhara,2026-03-02,2026-03-02,C,301,Appendicitis
+P036,Srijana,Magar,F,1989-03-24,9848930103,srijana.magar@example.com,Pokhara,2026-03-08,,B,201,Diabetes
+P037,Menuka,Pandey,F,1984-12-02,,menuka.pandey@example.com,Kathmandu,2026-03-07,2026-03-09,A,102,Food Poisoning
+P038,Rojina,,F,1966-05-15,9845191056,rojina.pandey@example.com,Lalitpur,2026-03-08,2026-03-08,A,106,Migraine
+P039,Roshan,Tamang,M,1981-08-16,9844586084,,Butwal,2026-03-01,2026-03-02,D,401,Gastritis
+P040,Puja,Pandey,F,1999-12-26,9849164991,puja.pandey@example.com,Bhaktapur,2026-03-04,2026-03-06,B,,Arthritis
